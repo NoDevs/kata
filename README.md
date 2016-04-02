@@ -7,6 +7,7 @@ A collection of code kata by members of NoDevs.
 
 - bowling-kata
     - [wbconnor/bowling-kata](https://github.com/wbconnor/bowling-kata)
+    - [loryder1/bowling-kata](https://github.com/LoRyder1/javaGameOfBowling)
 
 
 ## contribute
