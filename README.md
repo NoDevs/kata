@@ -10,6 +10,8 @@ A collection of code kata by members of NoDevs.
     - [LoRyder1/javaGameOfBowling](https://github.com/LoRyder1/javaGameOfBowling)
 - snakes-and-ladders-kata
     - [LoRyder1/SnakesLadders](https://github.com/LoRyder1/SnakesLadders)
+- project-euler
+    - [drmyersii/euler](https://github.com/drmyersii/euler)
 
 
 ## contribute
